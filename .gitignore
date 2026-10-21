@@ -1,4 +1,4 @@
-# Python
+﻿# Python
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -7,7 +7,7 @@ build/
 .eggs/
 *.egg
 
-# Виртуальное окружение
+# Virtual environment
 venv/
 env/
 .venv/
@@ -27,7 +27,6 @@ env/
 Thumbs.db
 desktop.ini
 
-# Данные (не коммитим большие файлы)
-data/*.xlsx
-output/*.xlsx
-output/*.png
+# Data and output (don't commit)
+data/
+output/
